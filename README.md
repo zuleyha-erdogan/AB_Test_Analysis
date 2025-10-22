@@ -20,7 +20,8 @@ Projenin amacı, buton rengindeki değişikliğin **istatistiksel olarak anlaml�
 Eğer fark anlamlıysa, yeni tasarım (B) kullanıcı deneyimini iyileştiriyor demektir.  
 Değilse, mevcut tasarım korunabilir.
 
-- **Veri Seti:** `ab_data.csv` (sentetik veri seti – Kaggle'dan alınmıştır)  
+- **Veri Seti:** `ab_data.csv` (sentetik veri seti – Kaggle'dan alınmıştır)
+-  https://www.kaggle.com/datasets/tathagatachowdhury09/ab-testing-for-button-color-variants-dataset?utm_source=chatgpt.com
 - **Analiz Aracı:** Python (pandas, matplotlib, statsmodels)  
 
 Bu proje, A/B testlerinin nasıl uygulanacağını, hipotezlerin nasıl kurulacağını ve istatistiksel anlamlılığın nasıl test edileceğini öğretmek amacıyla hazırlanmıştır.  
@@ -90,4 +91,6 @@ Yorum: B varyantının dönüşüm oranı A varyantına göre istatistiksel olar
 ✅ Sonuç: Yeni buton tasarımı (B) kullanıcı davranışını olumlu yönde etkilemiştir.
 Bu nedenle, yeni buton rengi siteye uygulanabilir.
 
-![button_color](https://github.com/user-attachments/assets/21401b9d-a571-4b04-9fee-4a9ac2e81c30)
+![button_color](https://github.com/user-attachments/assets/90c0c158-ca8d-4705-85c5-85ef594db015)
+
+
