@@ -74,3 +74,20 @@ AB_Test_Button_Color/
 └── README.md             # Proje açıklaması
     nobs=[A_n, B_n]
 )
+
+📈 Sonuçlar
+Metrik	A (Control)	B (Treatment)
+Dönüşüm Oranı	0.0270	0.0422
+
+Z-test istatistiği: -5.88
+
+p-value: 4.08 × 10⁻⁹
+
+Karar: p < 0.05 → H₀ reddedilir
+
+Yorum: B varyantının dönüşüm oranı A varyantına göre istatistiksel olarak anlamlı şekilde daha yüksektir.
+
+✅ Sonuç: Yeni buton tasarımı (B) kullanıcı davranışını olumlu yönde etkilemiştir.
+Bu nedenle, yeni buton rengi siteye uygulanabilir.
+
+![button_color](https://github.com/user-attachments/assets/21401b9d-a571-4b04-9fee-4a9ac2e81c30)
